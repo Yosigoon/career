@@ -26,7 +26,7 @@
 
 ### 달빛라이브
 
-<img src="https://github.com/Yosigoon/portfolio/blob/main/img/main.jpeg" width="200" height="500">
+<img src="https://github.com/Yosigoon/portfolio/blob/main/img/main.jpeg" width="250" height="450">
 
 > * 회사: 인포렉스
 > * 주사용 기술 : Java, Spring Boot, MySQL
