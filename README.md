@@ -36,7 +36,7 @@
 
 ### DB 손해보험
 
-<img src="https://github.com/Yosigoon/portfolio/blob/main/img/db_main.jpeg" width="200" height="350"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/db_center.jpeg" width="200" height="350"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/db_cus.jpeg" width="200" height="350"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/db_event.jpeg" width="200" height="350"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/db_note.jpeg" width="200" height="350">
+<img src="https://github.com/Yosigoon/portfolio/blob/main/img/db_main.JPG" width="200" height="350"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/db_center.JPG" width="200" height="350"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/db_cus.JPG" width="200" height="350"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/db_event.JPG" width="200" height="350"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/db_note.JPG" width="200" height="350">
 
 > 회사 : 네티브
 > * 주사용 기술 : Java, Spring Framework, Jsp, JQuery, JavaScript, RD Viewer, Oracle
