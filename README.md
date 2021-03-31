@@ -70,6 +70,14 @@
 > * 담당 업무 : 구축 (News, 관리자)
 <br />
 
+### AIA생명 온라인창구 재구축
+
+<img src="https://github.com/Yosigoon/portfolio/blob/main/img/aia_main.JPG" width="400" height="250"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/aia_auth.JPG" width="400" height="250">
+
+> 회사 : 네티브
+> * 주사용 기술 : Java, Oracle, Spring Framework
+> * 담당 업무 : 운영 (인증, 증명서)
+
 # 개인 프로젝트
 
 ### [Lakecomo]
