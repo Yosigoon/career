@@ -8,7 +8,7 @@
 - github: https://github.com/yosigoon
  <br /> <br />
  
-경력
+경력 5년차(4년)
 -
 ### 인포렉스
 * 2019.12 ~ 2021.04
