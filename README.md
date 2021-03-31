@@ -26,7 +26,7 @@
 
 ### 달빛라이브
 
-<img src="https://github.com/Yosigoon/portfolio/blob/main/img/splash.jpeg" width="250" height="350"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/main.jpeg" width="250" height="350"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/clip.jpeg" width="250" height="350"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/rank.jpeg" width="250" height="350"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/pay.jpeg" width="250" height="350">
+<img src="https://github.com/Yosigoon/portfolio/blob/main/img/splash.jpeg" width="200" height="350"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/main.jpeg" width="200" height="350"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/clip.jpeg" width="200" height="350"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/rank.jpeg" width="200" height="350"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/pay.jpeg" width="200" height="350">
 
 > * 회사: 인포렉스
 > * 주사용 기술 : Java, Spring Boot, MySQL
