@@ -57,13 +57,11 @@
 
 ### [Lakecomo][5]
 
-![](https://github.com/kuu723/resume/blob/master/images/hello/macameron0.jpg?raw=true) ![](https://github.com/kuu723/resume/blob/master/images/hello/macameron1.jpg?raw=true) ![](https://github.com/kuu723/resume/blob/master/images/hello/macameron2.jpg?raw=true)
 
-* 소개 : 필터 카메라 앱
-* 개발 언어 : Swift
-* 사용 라이브러리: GPUImage
-* 개발 기간 : 2017.1 ~ 2017.3
-* 앱스토어 : https://itunes.apple.com/us/app/macameron/id1189933737
+* 소개 : 레이크꼬모
+* 개발 언어 : Java, Spring Framework, Jsp, JQuery, JavaScript
+* 개발 기간 : 2개월
+* 앱스토어 : https://https://lakecomo.co.kr/
 
 <br />
 
