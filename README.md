@@ -67,8 +67,4 @@
 
 <br />
 
-### [ing...][6]
-
-<br />
-[5]: https://itunes.apple.com/us/app/macameron/id1189933737 "마카메롱"
-
+### [ing...]
