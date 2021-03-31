@@ -22,7 +22,7 @@
  <br /> <br />
  
 # 회사 프로젝트
-## Back-End
+## Back-End & Front-End
 
 ### 달빛라이브
 
