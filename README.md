@@ -52,6 +52,16 @@
 > * 담당 업무 : 구축 (인증, 결제, MyPage)
 <br />
 
+### CJ ONE 2차 고도화
+
+<img src="https://github.com/Yosigoon/portfolio/blob/main/img/cj_main.JPG" width="350" height="200"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/cj_main1.JPG" width="350" height="200"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/cj_one.JPG" width="350" height="200">
+
+> 회사 : 네티브
+> * 주사용 기술 : Java, Spring Framework, Vue js, Javascript Jsp, JQuery
+> * 담당 업무 : 구축 (메인템플릿 Vue로 교체, 원더랜드≪이벤트추가≫)
+
+<br />
+
 
 # 개인 프로젝트
 
