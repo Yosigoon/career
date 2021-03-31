@@ -55,13 +55,12 @@
 
 # 개인 프로젝트
 
-### [Lakecomo][5]
-
+### [Lakecomo]
 
 * 소개 : 레이크꼬모
 * 개발 언어 : Java, Spring Framework, Jsp, JQuery, JavaScript
 * 개발 기간 : 2개월
-* 앱스토어 : https://https://lakecomo.co.kr/
+* 앱스토어 : https://lakecomo.co.kr/
 
 <br />
 
