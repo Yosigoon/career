@@ -26,7 +26,7 @@
 
 ### 달빛라이브
 
-<img src="https://github.com/Yosigoon/portfolio/blob/main/img/splash.jpeg" width="250" height="450">
+<img src="https://github.com/Yosigoon/portfolio/blob/main/img/splash.jpeg?raw=true" width="250" height="450">
 <img src="https://github.com/Yosigoon/portfolio/blob/main/img/main.jpeg" width="250" height="450">
 <img src="https://github.com/Yosigoon/portfolio/blob/main/img/clip.jpeg" width="250" height="450">
 <img src="https://github.com/Yosigoon/portfolio/blob/main/img/pay.jpeg" width="250" height="450">
