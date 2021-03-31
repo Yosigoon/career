@@ -45,9 +45,12 @@
 
 ### AIA생명 다이렉트 플랫폼
 
-<img src="https://github.com/Yosigoon/portfolio/blob/main/img/aia_main.JPG" width="350" height="200"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/aia_auth.JPG" width="350" height="200">
+<img src="https://github.com/Yosigoon/portfolio/blob/main/img/aia_main.JPG" width="350" height="300"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/aia_auth.JPG" width="350" height="300">
 
-
+> 회사 : 네티브
+> * 주사용 기술 : Java, Oracle, Spring Framework, Nexacro
+> * 담당 업무 : 구축 (인증, 결제, MyPage)
+<br />
 
 # 개인 프로젝트
 
