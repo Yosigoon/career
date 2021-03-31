@@ -63,7 +63,7 @@
 
 ### 신한 FUTURE'S LAB
 
-<img src="https://github.com/Yosigoon/portfolio/blob/main/img/shinhan_main.JPG" width="360" height="250"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/shinhan_news.JPG" width="360" height="250"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/shinhan_admin.JPG" width="360" height="250">
+<img src="https://github.com/Yosigoon/portfolio/blob/main/img/shinhan_main.JPG" width="350" height="250"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/shinhan_news.JPG" width="350" height="250"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/shinhan_admin.JPG" width="350" height="250">
 
 > 회사 : 네티브
 > * 주사용 기술 : Java, Oracle, Spring Framework, Jsp, JQuery, JavaScript
