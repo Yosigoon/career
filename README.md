@@ -28,7 +28,8 @@
 
 <img src="https://github.com/Yosigoon/portfolio/blob/main/img/dalbit.png" height="380">
 
-> * 회사: 인포렉스
+> 회사: 인포렉스
+> * 사업 진행일 : 2019.12 ~ 현재
 > * 주사용 기술 : Java, Spring Boot, MySQL
 > * 담당 업무 : Rest API 개발, 외부 API모듈 연동 및 PG사 결제연동, ADMIN 개발
 
