@@ -2,7 +2,7 @@
 -
 **Web Developer  <br />
  - main : Java(Spring Framework), JSP <br />
- - sub  : js, Vue.js, php
+ - sub  : js, vue.js, php
 
 - Mail: <yosigoon@gmail.com>  
 - github: https://github.com/yosigoon
