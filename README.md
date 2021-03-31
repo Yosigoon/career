@@ -39,7 +39,7 @@
 <img src="https://github.com/Yosigoon/portfolio/blob/main/img/db_main.JPG" width="350" height="200"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/db_center.JPG" width="350" height="200"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/db_event.JPG" width="350" height="200"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/db_note.JPG" width="350" height="200">
 
 > 회사 : 네티브
-> 프로젝트 진행일 : 2019.10 ~ 2019.12
+> * 프로젝트 진행일 : 2019.10 ~ 2019.12
 > * 주사용 기술 : Java, Spring Framework, Jsp, JQuery, JavaScript, RD Viewer, Oracle
 > * 담당 업무 : 대표 홈페이지 재구축 (고객센터≪소비자포털, 고객의소리≫, 혜택≪이벤트≫, 증명서)
 <br />
@@ -49,7 +49,7 @@
 <img src="https://github.com/Yosigoon/portfolio/blob/main/img/direct_main.jpg" width="200" height="350"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/direct_prod.jpg" width="200" height="350"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/direct_auth.jpg" width="200" height="350">
 
 > 회사 : 네티브
-> 프로젝트 진행일 : 2019.04 ~ 2018.09
+> * 프로젝트 진행일 : 2019.04 ~ 2018.09
 > * 주사용 기술 : Java, Oracle, Spring Framework, Nexacro
 > * 담당 업무 : 구축 (인증, 결제, MyPage)
 <br />
@@ -59,7 +59,7 @@
 <img src="https://github.com/Yosigoon/portfolio/blob/main/img/cj_main.JPG" width="200" height="350"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/cj_main1.JPG" width="200" height="350"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/cj_one.JPG" width="200" height="350">
 
 > 회사 : 네티브
-> 프로젝트 진행일 : 2018.09 ~ 2019.03
+> * 프로젝트 진행일 : 2018.09 ~ 2019.03
 > * 주사용 기술 : Java, Spring Framework, Vue js, Javascript Jsp, JQuery
 > * 담당 업무 : 구축 (메인템플릿 Vue로 교체, 원더랜드≪이벤트추가≫)
 <br />
@@ -69,7 +69,7 @@
 <img src="https://github.com/Yosigoon/portfolio/blob/main/img/shinhan_main.JPG" width="320" height="250"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/shinhan_news.JPG" width="320" height="250"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/shinhan_admin.JPG" width="320" height="250">
 
 > 회사 : 네티브
-> 프로젝트 진행일 : 2018.07 ~ 2018.09
+> * 프로젝트 진행일 : 2018.07 ~ 2018.09
 > * 주사용 기술 : Java, Oracle, Spring Framework, Jsp, JQuery, JavaScript
 > * 담당 업무 : 구축 (News, 관리자)
 <br />
@@ -79,7 +79,7 @@
 <img src="https://github.com/Yosigoon/portfolio/blob/main/img/aia_main.JPG" width="400" height="250"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/aia_auth.JPG" width="400" height="250">
 
 > 회사 : 네티브
-> 프로젝트 진행일 : 2018.04 ~ 2018.07
+> * 프로젝트 진행일 : 2018.04 ~ 2018.07
 > * 주사용 기술 : Java, Oracle, Spring Framework
 > * 담당 업무 : 운영 (인증, 증명서)
 
