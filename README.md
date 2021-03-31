@@ -59,9 +59,16 @@
 > 회사 : 네티브
 > * 주사용 기술 : Java, Spring Framework, Vue js, Javascript Jsp, JQuery
 > * 담당 업무 : 구축 (메인템플릿 Vue로 교체, 원더랜드≪이벤트추가≫)
-
 <br />
 
+### 신한 FUTURE'S LAB
+
+<img src="https://github.com/Yosigoon/portfolio/blob/main/img/shinhan_main.JPG" width="300" height="250"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/shinhan_news.JPG" width="300" height="250"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/shinhan_admin.JPG" width="300" height="250">
+
+> 회사 : 네티브
+> * 주사용 기술 : Java, Oracle, Spring Framework, Jsp, JQuery, JavaScript
+> * 담당 업무 : 구축 (News, 관리자)
+<br />
 
 # 개인 프로젝트
 
