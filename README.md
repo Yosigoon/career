@@ -45,7 +45,7 @@
 
 ### AIA생명 다이렉트 플랫폼
 
-<img src="https://github.com/Yosigoon/portfolio/blob/main/img/direct_main.jpg" width="200" height="350"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/direct_prod.JPG" width="200" height="350"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/direct_auth.jpg" width="200" height="350">
+<img src="https://github.com/Yosigoon/portfolio/blob/main/img/direct_main.jpg" width="200" height="350"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/direct_prod.jpg" width="200" height="350"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/direct_auth.jpg" width="200" height="350">
 
 > 회사 : 네티브
 > * 주사용 기술 : Java, Oracle, Spring Framework, Nexacro
