@@ -1,8 +1,8 @@
 이형원 Lee Hyeongwon (id: yosigoon)
 -
 **Web Developer  <br />
- *main : Java(Spring Framework), JSP <br />
- *sub  : js, Vue.js, php
+ - main : Java(Spring Framework), JSP <br />
+ - sub  : js, Vue.js, php
 
 - Mail: <yosigoon@gmail.com>  
 - github: https://github.com/yosigoon
