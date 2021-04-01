@@ -99,10 +99,12 @@
 
 ### [앤어워드]
 
+<img src="https://github.com/Yosigoon/portfolio/blob/main/img/archive_main.JPG" width="330" height="250"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/archive_winner.JPG" width="330" height="250"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/archive_shower.JPG" width="330" height="250">
+
 * 소개 : 앤어워드
-* 개발 언어 : Java, Spring Framework, Jsp, JQuery, JavaScript
-* 개발 기간 : 2개월
-* 앱스토어 : https://lakecomo.co.kr/
+* 개발 언어 : Vue.js, php, JQuery, JavaScript
+* 담당 업무 : 아카이브 신규 메뉴 추가 및 연도별 수상작, 토크샤워 연동
+* https://www.naward.or.kr/archive/winners/2019
 
 <br />
 
