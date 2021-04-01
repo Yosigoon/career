@@ -88,10 +88,12 @@
 
 ### [Lakecomo]
 
+<img src="https://github.com/Yosigoon/portfolio/blob/main/img/lake_main.JPG" width="320" height="250"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/lake_activity.JPG" width="320" height="250"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/lake_admin.JPG" width="320" height="250">
+
 * 소개 : 레이크꼬모
 * 개발 언어 : Java, Spring Framework, Jsp, JQuery, JavaScript
-* 개발 기간 : 2개월
-* 앱스토어 : https://lakecomo.co.kr/
+* 담당 업무 : 액티비티 & 행사안내 신규메뉴 추가 및 관리자 개선
+* https://lakecomo.co.kr/
 
 <br />
 
@@ -113,11 +115,3 @@
 
 <br />
 
-### [iCan 한양대학교]
-
-* 소개 : 플레이스 
-* 개발 언어 : Java, Spring Framework, Jsp, JQuery, JavaScript
-* 개발 기간 : 2개월
-* 앱스토어 : https://lakecomo.co.kr/
-
-<br />
