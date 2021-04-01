@@ -113,3 +113,11 @@
 
 <br />
 
+### [iCan 한양대학교]
+
+* 소개 : 플레이스 
+* 개발 언어 : Java, Spring Framework, Jsp, JQuery, JavaScript
+* 개발 기간 : 2개월
+* 앱스토어 : https://lakecomo.co.kr/
+
+<br />
