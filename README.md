@@ -88,7 +88,7 @@
 
 ### [Lakecomo]
 
-<img src="https://github.com/Yosigoon/portfolio/blob/main/img/lake_main.JPG" width="320" height="250"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/lake_activity.JPG" width="320" height="250"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/lake_admin.JPG" width="320" height="250">
+<img src="https://github.com/Yosigoon/portfolio/blob/main/img/lake_main.JPG" width="330" height="250"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/lake_activity.JPG" width="330" height="250"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/lake_admin.JPG" width="330" height="250">
 
 * 소개 : 레이크꼬모
 * 개발 언어 : Java, Spring Framework, Jsp, JQuery, JavaScript
