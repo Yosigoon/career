@@ -113,7 +113,7 @@
 <img src="https://github.com/Yosigoon/portfolio/blob/main/img/jeju_main.JPG" width="330" height="250"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/jeju_reser.JPG" width="330" height="250"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/jeju_admin.JPG" width="330" height="250">
 
 * 소개 : 플레이스캠프 제주
-* 개발 언어 : Java, Spring Framework, Jsp, JQuery, JavaScript
+* 개발 언어 : php, Jsp, JQuery, JavaScript
 * 담당 업무 : 예약 및 결제 프로세스 변경 및 관리자 기능 개선(회원, 예약, 메일발송)
 * https://www.playcegroup.com/
 
