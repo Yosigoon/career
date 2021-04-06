@@ -11,7 +11,7 @@
 경력 5년차(4년)
 -
 ### 인포렉스
-* 2019.12 ~ 재직중
+* 2019.12 ~ 2021.04
 
 ### 네티브
 * 2018.04 ~ 2019.12
@@ -31,7 +31,7 @@
 > 회사: 인포렉스
 > * 사업 진행일: 2019.12 ~ 현재
 > * 주사용 기술: Java, Spring Boot, MySQL
-> * 담당 업무: Rest API 개발, 외부 API모듈 연동 및 PG사 결제연동, ADMIN 개발
+> * 담당 업무: Rest API 개발, 외부 API모듈 연동 및 PG사 결제연동
 > * Sample Code:<br />
 > Rest Api: https://github.com/Yosigoon/sample-api <br />
 > 카카오 결제: https://github.com/Yosigoon/sample-pay-kakao 
