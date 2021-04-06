@@ -33,8 +33,8 @@
 > * 주사용 기술: Java, Spring Boot, MySQL
 > * 담당 업무: Rest API 개발, 외부 API모듈 연동 및 PG사 결제연동, ADMIN 개발
 > * Sample Code:
->>Rest Api: https://github.com/Yosigoon/sample-api <br />
->>카카오 결제: https://github.com/Yosigoon/sample-pay-kakao 
+> Rest Api: https://github.com/Yosigoon/sample-api <br />
+> 카카오 결제: https://github.com/Yosigoon/sample-pay-kakao 
 
 
 <br />
@@ -109,8 +109,7 @@
 * 개발 언어: Vue.js, php, JQuery, JavaScript
 * 담당 업무: 아카이브 신규 메뉴 추가 및 연도별 수상작, 토크샤워 연동
 * Sample Code:
->>Rest Api: https://github.com/Yosigoon/sample-api <br />
->>카카오 결제: https://github.com/Yosigoon/sample-pay-kakao 
+> 아카이브(수상작, 토크샤워): https://github.com/Yosigoon/naward
 * URL: https://www.naward.or.kr
 
 <br />
