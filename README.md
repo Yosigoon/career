@@ -116,7 +116,7 @@
 
 ### [플레이스캠프 제주]
 
-<img src="https://github.com/Yosigoon/portfolio/blob/main/img/jeju_main.JPG" width="330" height="250"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/jeju_reser.JPG" width="330" height="250"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/jeju_admin.JPG" width="330" height="250"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/jeju_cancel.JPG" width="330" height="250">
+<img src="https://github.com/Yosigoon/portfolio/blob/main/img/jeju_main.JPG" width="350" height="250"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/jeju_reser.JPG" width="350" height="250"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/jeju_admin.JPG" width="350" height="250"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/jeju_cancel.JPG" width="350" height="250">
 
 * 소개: 플레이스캠프 제주
 * 개발 언어: php, Jsp, JQuery, JavaScript
