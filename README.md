@@ -97,7 +97,7 @@
 * 소개: 레이크꼬모
 * 개발 언어: Java, Spring Framework, Jsp, JQuery, JavaScript
 * 담당 업무: 액티비티 & 행사안내 신규메뉴 추가 및 관리자 개선
-* https://lakecomo.co.kr/
+* URL: https://lakecomo.co.kr/
 
 <br />
 
@@ -108,7 +108,10 @@
 * 소개 : 앤어워드
 * 개발 언어: Vue.js, php, JQuery, JavaScript
 * 담당 업무: 아카이브 신규 메뉴 추가 및 연도별 수상작, 토크샤워 연동
-* https://www.naward.or.kr/archive/winners/2019
+* Sample Code:
+>>Rest Api: https://github.com/Yosigoon/sample-api <br />
+>>카카오 결제: https://github.com/Yosigoon/sample-pay-kakao 
+* URL: https://www.naward.or.kr
 
 <br />
 
@@ -119,6 +122,6 @@
 * 소개: 플레이스캠프 제주
 * 개발 언어: php, Jsp, JQuery, JavaScript
 * 담당 업무: 예약 및 결제 프로세스 변경 및 관리자 기능 개선(회원, 예약, 메일발송)
-* https://www.playcegroup.com/
+* URL: https://www.playcegroup.com/
 
 <br />
