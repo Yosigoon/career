@@ -33,8 +33,8 @@
 > * 주사용 기술: Java, Spring Boot, MySQL
 > * 담당 업무: Rest API 개발, 외부 API모듈 연동 및 PG사 결제연동
 > * Sample Code:<br />
-> Rest Api: https://github.com/Yosigoon/sample-api <br />
-> 카카오 결제: https://github.com/Yosigoon/sample-pay-kakao 
+> - Rest Api: https://github.com/Yosigoon/sample-api <br />
+> - 카카오 결제: https://github.com/Yosigoon/sample-pay-kakao 
 
 
 <br />
