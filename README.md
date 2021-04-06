@@ -68,7 +68,7 @@
 > * 주사용 기술: Java, Spring Framework, Vue js, Javascript Jsp, JQuery
 > * 담당 업무: 구축 (메인템플릿 Vue로 교체, 원더랜드≪이벤트추가≫)
 > * Sample Code:<br />
-> Main: https://github.com/Yosigoon/cjone
+> > - Main: https://github.com/Yosigoon/cjone
 
 <br />
 
@@ -113,7 +113,7 @@
 * 담당 업무: 아카이브 신규 메뉴 추가 및 연도별 수상작, 토크샤워 연동
 * URL: https://www.naward.or.kr
 > * Sample Code:<br />
-> 아카이브(수상작, 토크샤워): https://github.com/Yosigoon/naward
+> > - 아카이브(수상작, 토크샤워): https://github.com/Yosigoon/naward
 
 <br />
 
@@ -126,6 +126,6 @@
 * 담당 업무: 예약 및 결제 프로세스 변경 및 관리자 기능 개선(회원, 예약, 메일발송)
 * URL: https://www.playcegroup.com
 > * Sample Code:<br />
-> 예약검증 및 관리자 메일발송, 강제취소 운영: https://github.com/Yosigoon/jeju
+> > - 예약검증 및 관리자 메일발송, 강제취소 운영: https://github.com/Yosigoon/jeju
 
 <br />
