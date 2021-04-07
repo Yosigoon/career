@@ -25,7 +25,7 @@
  <br />
  
 # 회사 프로젝트
-## Back-End & Front-End
+## Back-End || Front-End
 
 ### 달빛라이브
 
@@ -135,3 +135,16 @@
 > > - 예약검증 및 관리자 메일발송, 강제취소 운영: https://github.com/Yosigoon/jeju
 
 <br />
+
+# 교육
+
+### [동네반상]
+
+> 교육기관 : 비트캠프 (Java96기)
+> * 프로젝트 진행일: 2017.10 ~ 2017.12
+> * 팀명: 원피스
+> * 주사용 기술: Java, Spring Framework, Jsp, JQuery, JavaScript, Node.js, Google Map Api
+> * 담당 업무: 현재위치 기준 음식점 추천 (이미지 크롤링 및 구글맵 API)
+> * 프로젝트 기획서: 
+> * 소개영상: 
+> * 발표영상: 
