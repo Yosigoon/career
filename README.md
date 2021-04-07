@@ -29,12 +29,12 @@
 
 ### 달빛라이브
 
-<img src="https://github.com/Yosigoon/portfolio/blob/main/img/dalbit.png" height="380">
+<img src="https://github.com/Yosigoon/portfolio/blob/main/img/dalbitImg.png" height="380">
 
 > 회사: 인포렉스
 > * 사업 진행일: 2019.12 ~ 현재
 > * 주사용 기술: Java, Spring Boot, MySQL
-> * 담당 업무: Rest API 개발, 외부 API모듈 연동 및 PG사 결제연동
+> * 담당 업무: Rest API 개발(방송, 클립 등), 외부 API(모든 결제 및 인증) 연동 개발
 > * Sample Code:<br />
 > > - Rest Api: https://github.com/Yosigoon/sample-api <br />
 > > - 카카오 결제: https://github.com/Yosigoon/sample-pay-kakao 
