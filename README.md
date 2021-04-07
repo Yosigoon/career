@@ -5,7 +5,9 @@
  - sub: js, vue.js, php, nexacro
 
 - Mail: <yosigoon@gmail.com>
-- github: [https://github.com/yosigoon](https://github.com/yosigoon)
+- github: [https://github.com/yosigoon](https://github.com/yosigoon){:target="_blank"}
+- [건망증이 심한 엔지니어](https://techstock.biz){:target="_blank"}
+
  <br /> <br />
  
 경력 5년차(4년)
