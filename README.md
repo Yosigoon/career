@@ -140,7 +140,7 @@
 
 ### [동네반상]
 
-<img src="https://github.com/Yosigoon/portfolio/blob/main/img/bansang.JPG" width="250" height="350"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/bansang_list.JPG" width="250" height="350"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/bansang_search.JPG" width="250" height="350"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/bansang_search_map.JPG" width="250" height="350"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/bansang_grp.JPG" width="250" height="350"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/bansang_admin.JPG" width="250" height="350">
+<img src="https://github.com/Yosigoon/portfolio/blob/main/img/bansang.JPG" width="280" height="350"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/bansang_list.JPG" width="280" height="350"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/bansang_search.JPG" width="280" height="350"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/bansang_search_map.JPG" width="280" height="350"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/bansang_grp.JPG" width="280" height="350"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/bansang_admin.JPG" width="280" height="350">
 
 
 > 교육기관 : 비트캠프 (Java 고급과정 96기)
