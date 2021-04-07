@@ -4,7 +4,7 @@
  - main: Java(Spring Framework), JSP <br />
  - sub: js, vue.js, php, nexacro
 
-- Mail: <yosigoon@gmail.com {: target="_blank"}>
+- Mail: [yosigoon@gmail.com](yosigoon@gmail.com){: target="_blank"}
 - github: <https://github.com/yosigoon>{: target="_blank"}
  <br /> <br />
  
