@@ -4,8 +4,8 @@
  - main: Java(Spring Framework), JSP <br />
  - sub: js, vue.js, php, nexacro
 
-- Mail: <yosigoon@gmail.com>  
-- github: https://github.com/yosigoon
+- Mail: <yosigoon@gmail.com>{: target="_blank"}  
+- github: <https://github.com/yosigoon>{: target="_blank"}
  <br /> <br />
  
 경력 5년차(4년)
@@ -36,8 +36,8 @@
 > * 주사용 기술: Java, Spring Boot, MySQL
 > * 담당 업무: Rest API 개발(방송, 클립 등), 외부 API(모든 결제 및 인증) 연동 개발
 > * Sample Code:<br />
-> > - Rest Api: https://github.com/Yosigoon/sample-api <br />
-> > - 카카오 결제: https://github.com/Yosigoon/sample-pay-kakao 
+> > - Rest Api: <https://github.com/Yosigoon/sample-api>{: target="_blank"} <br />
+> > - 카카오 결제: <https://github.com/Yosigoon/sample-pay-kakao>{: target="_blank"}
 
 
 <br />
@@ -71,7 +71,7 @@
 > * 주사용 기술: Java, Spring Framework, Vue js, Javascript Jsp, JQuery
 > * 담당 업무: 구축 (메인템플릿 Vue로 교체, 원더랜드≪이벤트추가≫)
 > * Sample Code:<br />
-> > - Main: https://github.com/Yosigoon/cjone
+> > - Main: <https://github.com/Yosigoon/cjone>{: target="_blank"}  
 
 <br />
 
@@ -104,7 +104,7 @@
 * 개발 언어: Java, Spring Framework, Jsp, JQuery, JavaScript
 * 개발 기간: 1개월
 * 담당 업무: 액티비티 & 행사안내 신규메뉴 추가 및 관리자 개선, 
-* URL: https://lakecomo.co.kr/
+* URL: <https://lakecomo.co.kr>{: target="_blank"}  
 
 <br />
 
@@ -116,9 +116,9 @@
 * 개발 언어: Vue.js, php, JQuery, JavaScript
 * 개발 기간: 2개월
 * 담당 업무: 아카이브 신규 메뉴 추가 및 연도별 수상작, 토크샤워 연동
-* URL: https://www.naward.or.kr
+* URL: <https://www.naward.or.kr>{: target="_blank"}  
 > * Sample Code:<br />
-> > - 아카이브(수상작, 토크샤워): https://github.com/Yosigoon/naward
+> > - 아카이브(수상작, 토크샤워): <https://github.com/Yosigoon/naward>{: target="_blank"}  
 
 <br />
 
@@ -130,9 +130,9 @@
 * 개발 언어: php, Jsp, JQuery, JavaScript
 * 개발 기간: 2개월
 * 담당 업무: 예약 및 결제 프로세스 변경 및 관리자 기능 개선(회원, 예약, 메일발송)
-* URL: https://www.playcegroup.com
+* URL: <https://www.playcegroup.com>{: target="_blank"}  
 > * Sample Code:<br />
-> > - 예약검증 및 관리자 메일발송, 강제취소 운영: https://github.com/Yosigoon/jeju
+> > - 예약검증 및 관리자 메일발송, 강제취소 운영: <https://github.com/Yosigoon/jeju>{: target="_blank"}  
 
 <br />
 
@@ -148,7 +148,7 @@
 > * 팀명: 원피스
 > * 주사용 기술: Java, Spring Framework, Jsp, JQuery, JavaScript
 > * 담당 업무: 현재위치 기준 음식점 추천 (이미지 크롤링 및 구글맵 API)
-> * 프로젝트 기획 및 소개영상: https://drive.google.com/drive/folders/1G6edmgFdVT8E4Lvo21DPJE5iY2jtTEq8?usp=sharing
-> * 팀발표영상: https://youtu.be/TkxO3p8y2q4
+> * 프로젝트 기획 및 소개영상: <https://drive.google.com/drive/folders/1G6edmgFdVT8E4Lvo21DPJE5iY2jtTEq8?usp=sharing>{: target="_blank"}  
+> * 팀발표영상: <https://youtu.be/TkxO3p8y2q4>{: target="_blank"}  
 * Sample Code:<br />
-> > - 이미지 크롤링: https://github.com/Yosigoon/bit/blob/main/bansang/util/Crawling.java
+> > - 이미지 크롤링: <https://github.com/Yosigoon/bit/blob/main/bansang/util/Crawling.java>{: target="_blank"}  
