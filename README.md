@@ -140,11 +140,10 @@
 
 ### [동네반상]
 
-> 교육기관 : 비트캠프 (Java96기)
+> 교육기관 : 비트캠프 (Java 고급과정 96기)
 > * 프로젝트 진행일: 2017.10 ~ 2017.12
 > * 팀명: 원피스
 > * 주사용 기술: Java, Spring Framework, Jsp, JQuery, JavaScript, Node.js, Google Map Api
 > * 담당 업무: 현재위치 기준 음식점 추천 (이미지 크롤링 및 구글맵 API)
-> * 프로젝트 기획서: 
-> * 소개영상: 
-> * 발표영상: 
+> * 프로젝트 기획 및 소개영상: https://drive.google.com/drive/folders/1G6edmgFdVT8E4Lvo21DPJE5iY2jtTEq8?usp=sharing
+> * 팀발표영상: https://youtu.be/TkxO3p8y2q4
