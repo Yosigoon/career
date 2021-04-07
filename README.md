@@ -4,8 +4,8 @@
  - main: Java(Spring Framework), JSP <br />
  - sub: js, vue.js, php, nexacro
 
-- Mail: [yosigoon@gmail.com](yosigoon@gmail.com){: target="_blank"}
-- github: <https://github.com/yosigoon>{: target="_blank"}
+- Mail: <yosigoon@gmail.com>
+- github: [https://github.com/yosigoon](https://github.com/yosigoon){: target="_blank"}
  <br /> <br />
  
 경력 5년차(4년)
