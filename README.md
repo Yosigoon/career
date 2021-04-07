@@ -5,7 +5,7 @@
  - sub: js, vue.js, php, nexacro
 
 - Mail: <yosigoon@gmail.com>
-- github: [https://github.com/yosigoon](<a href="https://github.com/yosigoon" target="_blank">)
+- github: https://github.com/yosigoon<a href="https://github.com/yosigoon" target="_blank">
 
 
  <br /> <br />
