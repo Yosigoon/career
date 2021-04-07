@@ -51,7 +51,7 @@
 > 회사: 네티브
 > * 프로젝트 진행일: 2019.10 ~ 2019.12
 > * 주사용 기술: Java, Spring Framework, Jsp, JQuery, JavaScript, RD Viewer, Oracle
-> * 담당 업무: 대표 홈페이지 재구축 (고객센터≪소비자포털, 고객의소리≫, 혜택≪이벤트≫, 증명서)
+> * 담당 업무: 대표 홈페이지 재구축 (고객센터<소비자포털, 고객의소리>, 혜택<이벤트>, 증명서)
 <br />
 
 ### AIA생명 다이렉트 플랫폼
@@ -71,7 +71,7 @@
 > 회사 : 네티브
 > * 프로젝트 진행일: 2018.09 ~ 2019.03
 > * 주사용 기술: Java, Spring Framework, Vue js, Javascript Jsp, JQuery
-> * 담당 업무: 구축 (메인템플릿 Vue로 교체, 원더랜드≪이벤트추가≫)
+> * 담당 업무: 구축 (메인템플릿 Vue로 교체, 원더랜드<이벤트추가>)
 > * Sample Code:<br />
 > > - Main: <https://github.com/Yosigoon/cjone>
 
