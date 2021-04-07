@@ -59,7 +59,7 @@
 <img src="https://github.com/Yosigoon/portfolio/blob/main/img/direct_main.jpg" width="200" height="350"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/direct_prod.jpg" width="200" height="350"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/direct_auth.jpg" width="200" height="350">
 
 > 회사: 네티브
-> * 프로젝트 진행일: 2019.04 ~ 2018.09
+> * 프로젝트 진행일: 2019.04 ~ 2019.09
 > * 주사용 기술: Java, Oracle, Spring Framework, Nexacro
 > * 담당 업무: 구축 (인증, 결제, MyPage)
 <br />
