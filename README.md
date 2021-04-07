@@ -1,5 +1,3 @@
-[건망증이 심한 엔지니어](https://techstock.biz){:target="_blank"}
-
 이형원 Lee Hyeongwon (id: yosigoon)
 -
 **Web Developer  <br />
@@ -7,8 +5,8 @@
  - sub: js, vue.js, php, nexacro
 
 - Mail: <yosigoon@gmail.com>
-- github: [https://github.com/yosigoon](https://github.com/yosigoon){:target="_blank"}
-- 
+- github: <a href="https://github.com/yosigoon" target="_blank">
+
 
  <br /> <br />
  
