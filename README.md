@@ -1,4 +1,4 @@
-![profile_img](./images/me.PNG)
+![profile_img](./img/me.PNG)
 
 이형원 Lee Hyeongwon (id: yosigoon)
 -
