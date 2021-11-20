@@ -114,12 +114,12 @@
 
 ### [flexgear]
 
-<img src="https://github.com/Yosigoon/portfolio/blob/main/img/flexgear/main.png" width="330" height="250"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/flexgear/gear.png" width="330" height="250"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/flexgear/mypage.png" width="330" height="250"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/flexgear/list.png" width="330" height="250"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/flexgear/pop.png" width="330" height="250">
+<img src="https://github.com/Yosigoon/portfolio/blob/main/img/flexgear/main.png" width="330" height="250"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/flexgear/gear.png" width="330" height="250"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/flexgear/pay.png" width="330" height="250"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/flexgear/mypage.png" width="330" height="250"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/flexgear/list.png" width="330" height="250"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/flexgear/pop.png" width="330" height="250">
 
 * 소개: flexgear
 * 개발 언어: PHP, JQuery, JavaScript
-* 개발 기간: 1개월
-* 담당 업무: 액티비티 & 행사안내 신규메뉴 추가 및 관리자 개선
+* 개발 기간: 3개월
+* 담당 업무: 네이버 메타커머스 서버구성 및 커스텀개발, 모듈연동
 * URL: <https://www.flexgear.co.kr/>, <https://en.flexgear.co.kr>
 
 ### [Lakecomo]
