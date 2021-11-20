@@ -1,5 +1,5 @@
 ![profile_img](./img/me.PNG)
-
+<img src="https://github.com/Yosigoon/portfolio/blob/main/img/git.png" height="380">
 이형원 Lee Hyeongwon (id: yosigoon)
 -
 **Web Developer <br />
