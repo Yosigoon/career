@@ -35,12 +35,15 @@
 
 ### 물류시스템(FMS)기능 개발 및 외부 연동 인터페이스(API) 제공
 
-<img src="" height="380">
+<img src="https://github.com/Yosigoon/portfolio/blob/main/img/fss/login.png" width="350" height="200"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/fss/fms.png" width="350" height="200">
 
 > 회사: 파스토
 > * 사업 진행일: 2021.05 ~ 현재
 > * 주사용 기술: Java, Spring/Spring Boot, MySQL
-> * 담당 업무: 물류 시스템(FMS) 기능연동 <br />외부 쇼핑몰(스마트스토어, 아입웹, 샵링커, 고도몰, 사방넷, 이크레모스)<br />택배사(CJ, LOTTE, HANJIN, 이크레모스 등) 연동
+> * 담당 업무:<br /> 
+> > - 물류 시스템(FMS) 기능연동 <br />
+> > - 외부 쇼핑몰(스마트스토어, 아입웹, 샵링커, 고도몰, 사방넷, 이크레모스)<br />
+> > - 택배사(CJ, LOTTE, HANJIN, 이크레모스 등) 연동
 
 ### 달빛라이브
 
