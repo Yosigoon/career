@@ -114,7 +114,7 @@
 
 ### [flexgear]
 
-<img src="https://github.com/Yosigoon/portfolio/blob/main/img/flexgear/main.PNG" width="330" height="250">
+<img src="https://github.com/Yosigoon/portfolio/blob/main/img/flexgear/main.png" width="330" height="250">
 
 * 소개: flexgear
 * 개발 언어: PHP, JQuery, JavaScript
