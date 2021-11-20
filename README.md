@@ -2,7 +2,7 @@
 
 이형원 Lee Hyeongwon (id: yosigoon)
 -
-**Web Developer  <br />
+**Web Developer <br />
  - main: Java(Spring Framework), JSP <br />
  - sub: js, vue.js, php, nexacro
 
@@ -14,6 +14,9 @@
  
 경력 5년차(4년)
 -
+### 파스토
+* 2021.05 ~ 재직중
+
 ### 인포렉스
 * 2019.12 ~ 2021.04
 
@@ -28,7 +31,17 @@
 
  <br />
  
-# 회사 프로젝트
+# 서비스 (프로젝트)
+
+### 물류시스템(FMS)기능 개발 및 외부 연동 인터페이스(API) 제공
+
+<img src="" height="380">
+
+> 회사: 파스토
+> * 사업 진행일: 2021.05 ~ 현재
+> * 주사용 기술: Java, Spring/Spring Boot, MySQL
+> * 담당 업무: 물류 시스템(FMS) 기능연동, 외부 쇼핑몰(스마트스토어, 아입웹, 샵링커, 고도몰, 사방넷, 이크레모스) 및 택배사(CJ, LOTTE, HANJIN, 이크레모스 등) 연동
+> * Sample Code:<br />
 
 ### 달빛라이브
 
@@ -97,7 +110,17 @@
 > * 주사용 기술: Java, Oracle, Spring Framework
 > * 담당 업무: 운영 (인증, 증명서)
 
-# 프리 외주
+# 외주
+
+### [flexgear]
+
+<img src="https://github.com/Yosigoon/portfolio/blob/main/img/lake_main.JPG" width="330" height="250"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/lake_activity.JPG" width="330" height="250"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/lake_admin.JPG" width="330" height="250">
+
+* 소개: flexgear
+* 개발 언어: PHP, JQuery, JavaScript
+* 개발 기간: 1개월
+* 담당 업무: 액티비티 & 행사안내 신규메뉴 추가 및 관리자 개선
+* URL: <https://www.flexgear.co.kr/>, <https://en.flexgear.co.kr>
 
 ### [Lakecomo]
 
@@ -116,7 +139,7 @@
 <img src="https://github.com/Yosigoon/portfolio/blob/main/img/archive_main.JPG" width="330" height="250"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/archive_winner.JPG" width="330" height="250"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/archive_shower.JPG" width="330" height="250">
 
 * 소개 : 앤어워드
-* 개발 언어: Vue.js, php, JQuery, JavaScript
+* 개발 언어: Vue.js, PHP, JQuery, JavaScript
 * 개발 기간: 2개월
 * 담당 업무: 아카이브 신규 메뉴 추가 및 연도별 수상작, 토크샤워 연동
 * URL: <https://www.naward.or.kr>
@@ -130,7 +153,7 @@
 <img src="https://github.com/Yosigoon/portfolio/blob/main/img/jeju_main.JPG" width="350" height="250"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/jeju_reser.JPG" width="350" height="250"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/jeju_admin.JPG" width="350" height="250"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/jeju_cancel.JPG" width="350" height="250">
 
 * 소개: 플레이스캠프 제주
-* 개발 언어: php, Jsp, JQuery, JavaScript
+* 개발 언어: PHP, Jsp, JQuery, JavaScript
 * 개발 기간: 2개월
 * 담당 업무: 예약 및 결제 프로세스 변경 및 관리자 기능 개선(회원, 예약, 메일발송)
 * URL: <https://www.playcegroup.com>
