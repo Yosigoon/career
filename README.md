@@ -114,11 +114,7 @@
 
 ### [flexgear]
 
-<img src="https://github.com/Yosigoon/portfolio/blob/main/img/flexgear/main.png" width="330" height="250">
-<img src="https://github.com/Yosigoon/portfolio/blob/main/img/flexgear/gear.png" width="330" height="250">
-<img src="https://github.com/Yosigoon/portfolio/blob/main/img/flexgear/mypage.png" width="330" height="250">
-<img src="https://github.com/Yosigoon/portfolio/blob/main/img/flexgear/list.png" width="330" height="250">
-<img src="https://github.com/Yosigoon/portfolio/blob/main/img/flexgear/pop.png" width="330" height="250">
+<img src="https://github.com/Yosigoon/portfolio/blob/main/img/flexgear/main.png" width="330" height="250"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/flexgear/gear.png" width="330" height="250"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/flexgear/mypage.png" width="330" height="250"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/flexgear/list.png" width="330" height="250"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/flexgear/pop.png" width="330" height="250">
 
 * 소개: flexgear
 * 개발 언어: PHP, JQuery, JavaScript
