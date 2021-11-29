@@ -8,7 +8,7 @@
 
 - Mail: <yosigoon@gmail.com>
 - github: https://github.com/yosigoon
-<img src="https://github.com/Yosigoon/portfolio/blob/main/img/gist.png" width="420" height="380">
+<img src="https://github.com/Yosigoon/portfolio/blob/main/img/gist.png" width="630" height="270">
 <br />
  
 # 경력
