@@ -8,7 +8,7 @@
 
 - Mail: <yosigoon@gmail.com>
 - github: https://github.com/yosigoon
-<img src="https://github.com/Yosigoon/portfolio/blob/main/img/github.png" height="380">
+<img src="https://github.com/Yosigoon/portfolio/blob/main/img/github.png" width="400" height="380">
 
  <br /> <br />
  
