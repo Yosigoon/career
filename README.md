@@ -7,9 +7,9 @@
  - sub: js, vue.js, php, nexacro
 
 - Mail: <yosigoon@gmail.com>
-- github: https://github.com/yosigoon  <img src="https://github.com/Yosigoon/portfolio/blob/main/img/github.png" width="400" height="380">
-
- <br /> <br />
+- github: https://github.com/yosigoon
+<img src="https://github.com/Yosigoon/portfolio/blob/main/img/github.png" width="500" height="380">
+ 
  
 경력
 -
