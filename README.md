@@ -9,11 +9,9 @@
 - Mail: <yosigoon@gmail.com>
 - github: https://github.com/yosigoon
 <img src="https://github.com/Yosigoon/portfolio/blob/main/img/github.png" width="420" height="380">
-
-
+<br />
  
- 
-경력
+# 경력
 -
 ### 파스토
 * 2021.05 ~ 재직중
