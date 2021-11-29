@@ -2,7 +2,7 @@
 
 이형원 Lee Hyeongwon (id: yosigoon)
 -
-**Web Developer <br />
+## Web Developer <br />
  - main: Java(Spring Framework), JSP <br />
  - sub: js, vue.js, php, nexacro
 
@@ -28,7 +28,7 @@
 
  <br />
  
-# 서비스 (프로젝트)
+# [파스토]
 
 ### 물류시스템(FMS)기능 개발 및 외부 연동 인터페이스(API) 제공
 
@@ -42,7 +42,7 @@
 > > - 외부 쇼핑몰(스마트스토어, 아입웹, 샵링커, 고도몰, 사방넷, 이크레모스)<br />
 > > - 택배사(CJ, LOTTE, HANJIN, 이크레모스 등) 연동
 
-### 달빛라이브
+### [달빛라이브]
 
 <img src="https://github.com/Yosigoon/portfolio/blob/main/img/dalbitImg.png" height="380">
 
@@ -57,7 +57,7 @@
 
 <br />
 
-### DB 손해보험
+### [DB 해보험]
 
 <img src="https://github.com/Yosigoon/portfolio/blob/main/img/db_main.JPG" width="350" height="200"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/db_center.JPG" width="350" height="200"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/db_event.JPG" width="350" height="200"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/db_note.JPG" width="350" height="200">
 
@@ -67,7 +67,7 @@
 > * 담당 업무: 대표 홈페이지 재구축 (고객센터<소비자포털, 고객의소리>, 혜택<이벤트>, 증명서)
 <br />
 
-### AIA생명 다이렉트 플랫폼
+### [AIA생명 다이렉트 플랫폼]
 
 <img src="https://github.com/Yosigoon/portfolio/blob/main/img/direct_main.jpg" width="200" height="350"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/direct_prod.jpg" width="200" height="350"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/direct_auth.jpg" width="200" height="350">
 
@@ -77,7 +77,7 @@
 > * 담당 업무: 구축 (인증, 결제, MyPage)
 <br />
 
-### CJ ONE 2차 고도화
+### [CJ ONE 2차 고도화]
 
 <img src="https://github.com/Yosigoon/portfolio/blob/main/img/cj_main.JPG" width="200" height="350"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/cj_main1.JPG" width="200" height="350"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/cj_one.JPG" width="200" height="350">
 
@@ -90,7 +90,7 @@
 
 <br />
 
-### 신한 FUTURE'S LAB
+### [신한 FUTURE'S LAB]
 
 <img src="https://github.com/Yosigoon/portfolio/blob/main/img/shinhan_main.JPG" width="320" height="250"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/shinhan_news.JPG" width="320" height="250"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/shinhan_admin.JPG" width="320" height="250">
 
@@ -100,7 +100,7 @@
 > * 담당 업무: 구축 (News, 관리자)
 <br />
 
-### AIA생명 온라인창구 재구축
+### [AIA생명 온라인창구 재구축]
 
 <img src="https://github.com/Yosigoon/portfolio/blob/main/img/aia_main.JPG" width="400" height="250"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/aia_auth.JPG" width="400" height="250">
 
