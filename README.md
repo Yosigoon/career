@@ -27,7 +27,6 @@
 * 2016.09 ~ 2017.06
 
 ### 프리(외주) 
-* 5개월
 
  <br />
  
@@ -114,7 +113,7 @@
 
 # 외주
 
-### [flexgear]
+### [FLEXGEAR]
 
 <img src="https://github.com/Yosigoon/portfolio/blob/main/img/flexgear/main.png" width="330" height="250"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/flexgear/gear.png" width="330" height="250"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/flexgear/pay.png" width="330" height="250"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/flexgear/mypage.png" width="330" height="250"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/flexgear/list.png" width="330" height="250"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/flexgear/pop.png" width="330" height="250">
 
