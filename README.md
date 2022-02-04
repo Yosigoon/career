@@ -3,7 +3,7 @@
 이형원 Lee Hyeongwon (id: yosigoon)
 -
 ## Web Developer <br />
- - main: Java(Spring Framework), JSP <br />
+ - main: Java <br />
  - sub: js, vue.js, php, nexacro
 
 - Mail: <yosigoon@gmail.com>
@@ -36,7 +36,7 @@
 
 > 회사: 파스토
 > * 사업 진행일: 2021.05 ~ 현재
-> * 주사용 기술: Java, Spring/Spring Boot, MySQL
+> * 주사용 기술: Java, Spring Boot, MySQL
 > * 담당 업무:<br /> 
 > > - 물류 시스템(FMS) 기능연동 <br />
 > > - 외부 쇼핑몰(스마트스토어, 아입웹, 샵링커, 고도몰, 사방넷, 이크레모스)<br />
@@ -49,7 +49,7 @@
 
 > 회사: 인포렉스
 > * 사업 진행일: 2019.12 ~ 현재
-> * 주사용 기술: Java, Spring/Spring Boot, MySQL
+> * 주사용 기술: Java, Spring Boot, MySQL
 > * 담당 업무: Rest API 개발(방송, 클립 등), 외부 API(모든 결제 및 인증) 연동 개발
 > * Sample Code:<br />
 > > - Rest Api: <https://github.com/Yosigoon/sample-api> <br />
