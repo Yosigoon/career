@@ -35,7 +35,7 @@
 <img src="https://github.com/Yosigoon/portfolio/blob/main/img/fss/login.png" width="350" height="200"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/fss/fms.png" width="350" height="200">
 
 > 회사: 파스토
-> * 사업 진행일: 2021.05 ~ 현재
+> * 사업 진행일: 2021.05 ~ 재직중
 > * 주사용 기술: Java, Spring Boot, MySQL
 > * 담당 업무:<br /> 
 > > - 물류 시스템(FMS) 기능연동 <br />
@@ -48,7 +48,7 @@
 <img src="https://github.com/Yosigoon/portfolio/blob/main/img/dalbitImg.png" height="380">
 
 > 회사: 인포렉스
-> * 사업 진행일: 2019.12 ~ 현재
+> * 사업 진행일: 2019.12 ~ 2021.04
 > * 주사용 기술: Java, Spring Boot, MySQL
 > * 담당 업무: Rest API 개발(방송, 클립 등), 외부 API(모든 결제 및 인증) 연동 개발
 > * Sample Code:<br />
