@@ -58,7 +58,7 @@
 
 <br />
 
-### [DB 해보험]
+### [DB 손해보험]
 
 <img src="https://github.com/Yosigoon/portfolio/blob/main/img/db_main.JPG" width="350" height="200"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/db_center.JPG" width="350" height="200"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/db_event.JPG" width="350" height="200"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/db_note.JPG" width="350" height="200">
 
