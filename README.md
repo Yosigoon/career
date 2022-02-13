@@ -47,7 +47,7 @@
 
 <img src="https://github.com/Yosigoon/portfolio/blob/main/img/dalbitImg.png" height="380">
 
-> 회사: 인포렉스
+> 회사: 인포렉스(현: 여보야)
 > * 사업 진행일: 2019.12 ~ 2021.04
 > * 주사용 기술: Java, Spring Boot, MySQL
 > * 담당 업무: Rest API 개발(방송, 클립 등), 외부 API(모든 결제 및 인증) 연동 개발
