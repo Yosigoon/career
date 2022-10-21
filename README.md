@@ -32,7 +32,7 @@
 
 ### [물류시스템(FMS)기능 개발 및 외부 연동 인터페이스(API) 제공]
 
-<img src="https://github.com/Yosigoon/portfolio/blob/main/img/fss/login.png" width="350" height="200"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/fss/fms.png" width="350" height="200">
+<img src="https://github.com/Yosigoon/portfolio/blob/main/img/fss/fassto.png" width="350" height="200">
 
 > 회사: 파스토
 > * 사업 진행일: 2021.05 ~ 재직중
