@@ -41,7 +41,7 @@
 > > - 외부 쇼핑몰(스마트스토어, 아입웹, 샵링커, 고도몰, 사방넷, 이크레모스, 카페24) 연동 및 API 제공<br />
 > > - 택배사(CJ, LOTTE, HANJIN, 이크레모스 등) 연동 및 API 제공<br />
 > > - 배송추적(스마트택배) 연동 및 API 제공
-> > - 인터페이스 아키텍쳐 
+> > - 인터페이스 아키텍쳐 설계 및 
 > * Sample Code:<br />
 > > - Api Sample: <https://github.com/Yosigoon/apiSample> <br />
 
