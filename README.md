@@ -34,7 +34,7 @@
 <img src="https://github.com/Yosigoon/portfolio/blob/main/img/fss/fassto.png" width="350" height="200">
 
 > 회사: 파스토
-> * 사업 진행일: 2021.05 ~ 재직중
+> * 사업 진행일: 2021.05 ~ 2022.12
 > * 주사용 기술: Java, Spring Boot, MySQL
 > * 담당 업무:<br /> 
 > > - 물류 시스템(FMS) API 제공 <br />
