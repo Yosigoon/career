@@ -35,7 +35,7 @@
 ### 삼성전자 GateKeeper
 > 회사: 베스핀글로벌
 > * 사업 진행일: 2023.01 ~ 현재
-> * 주사용 기술: Java, Spring, Spring Boot, MySQL, AWS
+> * 주사용 기술: Java, Spring, MySQL, AWS Cloud
 
 
 ### [물류시스템(FMS)기능 개발 및 외부 연동 인터페이스(API) 제공]
