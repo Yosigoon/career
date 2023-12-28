@@ -1,10 +1,11 @@
 ![profile_img](./img/me.PNG)
 
-이형원 Lee Hyeongwon (id: yosigoon)
+Lee Hyeongwon
 -
-## Web Developer <br />
- - main: Java, Spring, Spring Boot <br />
- - sub: js, vue.js, php, nexacro
+## Skill <br />
+ - BE: Java, Spring, Spring Boot <br />
+ - FE: js, vue.js, php, nexacro
+ - Cloud: AWS
 
 - Mail: <yosigoon@gmail.com>
 - github: https://github.com/yosigoon
