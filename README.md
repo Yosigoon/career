@@ -26,8 +26,9 @@
 ### 펑타이코리아
 * 2016.09 ~ 2017.06
 
-### 외주
-* etc
+### ETC
+
+### 교육
 
  <br />
  
@@ -35,7 +36,10 @@
 ### 삼성전자 GateKeeper
 > 회사: 베스핀글로벌
 > * 사업 진행일: 2023.01 ~ 현재
-> * 주사용 기술: Java, Spring, MySQL, AWS Cloud
+> * 주사용 기술: AWS, Java, Spring, MySQL
+> * 담당 업무:<br /> 
+> > - Devops, API/Batch Back-End 운영/개발 <br />
+
 
 
 ### [물류시스템(FMS)기능 개발 및 외부 연동 인터페이스(API) 제공]
@@ -121,7 +125,7 @@
 > * 주사용 기술: Java, Oracle, Spring Framework
 > * 담당 업무: 운영 (인증, 증명서)
 
-# 외주
+# ETC
 
 ### [FLEXGEAR]
 
