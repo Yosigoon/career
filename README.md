@@ -1,6 +1,6 @@
 ![profile_img](./img/me.PNG)
 
-Lee Hyeongwon
+이형원 (Hyeongwon Lee)
 -
 ## Skill <br />
  - BE: Java, Spring, Spring Boot <br />
