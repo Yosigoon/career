@@ -57,7 +57,7 @@
  - 배송추적(스마트택배) 연동 및 API 제공
  - 인터페이스팀 API 아키텍처 설계
 * Sample Code:<br />
- - API: <https://github.com/Yosigoon/apiSample> <br />
+ API: <https://github.com/Yosigoon/apiSample> <br />
 
 ### [달라(달빛라이브)]
 
