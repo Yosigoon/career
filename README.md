@@ -56,8 +56,7 @@
  - 배송사(CJ대한통운, 롯데택배, 한진택배, 이크레모스 등) 연동 및 API 제공<br />
  - 배송추적(스마트택배) 연동 및 API 제공
  - 인터페이스팀 API 아키텍처 설계
-* Sample Code:<br />
- API: <https://github.com/Yosigoon/apiSample> <br />
+* Sample Code: <https://github.com/Yosigoon/apiSample> <br />
 
 ### [달라(달빛라이브)]
 
@@ -68,8 +67,8 @@
 * 주사용 기술: Java, Spring Boot, MySQL
 * 담당 업무: Rest API 개발(방송, 클립 등), 외부 API(모든 결제 및 인증) 연동 개발
 * Sample Code:<br />
- - API: <https://github.com/Yosigoon/sample-api> <br />
- - 카카오 결제: <https://github.com/Yosigoon/sample-pay-kakao>
+  API: <https://github.com/Yosigoon/sample-api> <br />
+  카카오 결제: <https://github.com/Yosigoon/sample-pay-kakao>
 
 
 <br />
