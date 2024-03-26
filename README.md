@@ -32,7 +32,7 @@
 
  <br />
  
-# Project & Service
+## Project & Service
 ### [삼성전자 GateKeeper] 
 ###### (삼성전자 BDC 서비스가 수집한 개인정보에 대한 정보주체의 요청을 각 서비스에 전파하고 처리하는 일련의 과정을 중계하는 자동화 시스템)
  
