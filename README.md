@@ -35,10 +35,10 @@
 ### [삼성전자 GateKeeper]
 - 삼성전자 BDC 서비스가 수집한 개인정보에 대한 정보주체의 요청을 각 서비스에 전파하고 처리하는 일련의 과정을 중계하는 자동화 시스템
  
-> 회사: 베스핀글로벌
-> * 사업 진행일: 2023.01 ~ 현재
-> * 주사용 기술: AWS, Java, Spring, MySQL
-> * 담당 업무:<br /> 
+회사: 베스핀글로벌
+* 사업 진행일: 2023.01 ~ 현재
+* 주사용 기술: AWS, Java, Spring, MySQL
+* 담당 업무:<br /> 
 > > - Devops, API/Batch Back-End 운영/개발 <br />
 
 
@@ -47,26 +47,26 @@
 
 <img src="https://github.com/Yosigoon/portfolio/blob/main/img/fss/fassto.png" width="350" height="200">
 
-> 회사: 파스토
-> * 사업 진행일: 2021.05 ~ 2022.12
-> * 주사용 기술: Java, Spring Boot, MySQL
-> * 담당 업무:<br /> 
-> > - 물류 시스템(FMS) API 제공 <br />
-> > - 외부 쇼핑몰(스마트스토어, 아입웹, 샵링커, 고도몰, 사방넷, 이크레모스, 카페24) 연동 및 API 제공<br />
-> > - 배송사(CJ대한통운, 롯데택배, 한진택배, 이크레모스 등) 연동 및 API 제공<br />
-> > - 배송추적(스마트택배) 연동 및 API 제공
-> > - 인터페이스팀 API 아키텍처 설계
+회사: 파스토
+* 사업 진행일: 2021.05 ~ 2022.12
+* 주사용 기술: Java, Spring Boot, MySQL
+* 담당 업무:<br /> 
+ - 물류 시스템(FMS) API 제공 <br />
+ - 외부 쇼핑몰(스마트스토어, 아입웹, 샵링커, 고도몰, 사방넷, 이크레모스, 카페24) 연동 및 API 제공<br />
+ - 배송사(CJ대한통운, 롯데택배, 한진택배, 이크레모스 등) 연동 및 API 제공<br />
+ - 배송추적(스마트택배) 연동 및 API 제공
+ - 인터페이스팀 API 아키텍처 설계
 > * Sample Code:<br />
 > > - Api Sample: <https://github.com/Yosigoon/apiSample> <br />
 
-### [달빛라이브]
+### [달라(달빛라이브)]
 
 <img src="https://github.com/Yosigoon/portfolio/blob/main/img/dalbitImg.png" height="380">
 
-> 회사: 인포렉스(현: 여보야)
-> * 사업 진행일: 2019.12 ~ 2021.04
-> * 주사용 기술: Java, Spring Boot, MySQL
-> * 담당 업무: Rest API 개발(방송, 클립 등), 외부 API(모든 결제 및 인증) 연동 개발
+회사: 여보야(구: 인포렉스)
+* 사업 진행일: 2019.12 ~ 2021.04
+* 주사용 기술: Java, Spring Boot, MySQL
+* 담당 업무: Rest API 개발(방송, 클립 등), 외부 API(모든 결제 및 인증) 연동 개발
 > * Sample Code:<br />
 > > - Rest Api: <https://github.com/Yosigoon/sample-api> <br />
 > > - 카카오 결제: <https://github.com/Yosigoon/sample-pay-kakao>
@@ -78,30 +78,30 @@
 
 <img src="https://github.com/Yosigoon/portfolio/blob/main/img/db_main.JPG" width="350" height="200"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/db_center.JPG" width="350" height="200"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/db_event.JPG" width="350" height="200"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/db_note.JPG" width="350" height="200">
 
-> 회사: 네티브
-> * 프로젝트 진행일: 2019.10 ~ 2019.12
-> * 주사용 기술: Java, Spring Framework, Jsp, JQuery, JavaScript, RD Viewer, Oracle
-> * 담당 업무: 대표 홈페이지 재구축 (고객센터<소비자포털, 고객의소리>, 혜택<이벤트>, 증명서)
+회사: 네티브
+* 프로젝트 진행일: 2019.10 ~ 2019.12
+* 주사용 기술: Java, Spring Framework, Jsp, JQuery, JavaScript, RD Viewer, Oracle
+* 담당 업무: 대표 홈페이지 재구축 (고객센터<소비자포털, 고객의소리>, 혜택<이벤트>, 증명서)
 <br />
 
 ### [AIA생명 다이렉트 플랫폼]
 
 <img src="https://github.com/Yosigoon/portfolio/blob/main/img/direct_main.jpg" width="200" height="350"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/direct_prod.jpg" width="200" height="350"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/direct_auth.jpg" width="200" height="350">
 
-> 회사: 네티브
-> * 프로젝트 진행일: 2019.04 ~ 2019.09
-> * 주사용 기술: Java, Oracle, Spring Framework, Nexacro
-> * 담당 업무: 구축 (인증, 결제, MyPage)
+회사: 네티브
+* 프로젝트 진행일: 2019.04 ~ 2019.09
+* 주사용 기술: Java, Oracle, Spring Framework, Nexacro
+* 담당 업무: 구축 (인증, 결제, MyPage)
 <br />
 
 ### [CJ ONE 2차 고도화]
 
 <img src="https://github.com/Yosigoon/portfolio/blob/main/img/cj_main.JPG" width="200" height="350"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/cj_main1.JPG" width="200" height="350"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/cj_one.JPG" width="200" height="350">
 
-> 회사 : 네티브
-> * 프로젝트 진행일: 2018.09 ~ 2019.03
-> * 주사용 기술: Java, Spring Framework, Vue js, Javascript Jsp, JQuery
-> * 담당 업무: 구축 (메인템플릿 Vue로 교체, 원더랜드<이벤트추가>)
+회사 : 네티브
+* 프로젝트 진행일: 2018.09 ~ 2019.03
+* 주사용 기술: Java, Spring Framework, Vue js, Javascript Jsp, JQuery
+* 담당 업무: 구축 (메인템플릿 Vue로 교체, 원더랜드<이벤트추가>)
 > * Sample Code:<br />
 > > - Main: <https://github.com/Yosigoon/cjone>
 
@@ -111,20 +111,20 @@
 
 <img src="https://github.com/Yosigoon/portfolio/blob/main/img/shinhan_main.JPG" width="320" height="250"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/shinhan_news.JPG" width="320" height="250"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/shinhan_admin.JPG" width="320" height="250">
 
-> 회사 : 네티브
-> * 프로젝트 진행일: 2018.07 ~ 2018.09
-> * 주사용 기술: Java, Oracle, Spring Framework, Jsp, JQuery, JavaScript
-> * 담당 업무: 구축 (News, 관리자)
+회사 : 네티브
+* 프로젝트 진행일: 2018.07 ~ 2018.09
+* 주사용 기술: Java, Oracle, Spring Framework, Jsp, JQuery, JavaScript
+* 담당 업무: 구축 (News, 관리자)
 <br />
 
 ### [AIA생명 온라인창구 재구축]
 
 <img src="https://github.com/Yosigoon/portfolio/blob/main/img/aia_main.JPG" width="400" height="250"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/aia_auth.JPG" width="400" height="250">
 
-> 회사 : 네티브
-> * 프로젝트 진행일: 2018.04 ~ 2018.07
-> * 주사용 기술: Java, Oracle, Spring Framework
-> * 담당 업무: 운영 (인증, 증명서)
+회사 : 네티브
+* 프로젝트 진행일: 2018.04 ~ 2018.07
+* 주사용 기술: Java, Oracle, Spring Framework
+* 담당 업무: 운영 (인증, 증명서)
 
 # ETC
 
@@ -185,12 +185,12 @@
 <img src="https://github.com/Yosigoon/portfolio/blob/main/img/bansang.JPG" width="280" height="350"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/bansang_list.JPG" width="280" height="350"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/bansang_search.JPG" width="280" height="350"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/bansang_search_map.JPG" width="280" height="350"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/bansang_grp.JPG" width="280" height="350"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/bansang_admin.JPG" width="280" height="350">
 
 
-> 교육기관 : 비트캠프 (Java 고급과정 96기)
-> * 프로젝트 진행일: 2017.10 ~ 2017.12
-> * 팀명: 원피스
-> * 주사용 기술: Java, Spring/Spring Boot, Jsp, JQuery, JavaScript
-> * 담당 업무: 현재위치 기준 음식점 추천 (이미지 크롤링 및 구글맵 API)
-> * 프로젝트 기획 및 소개영상: <https://drive.google.com/drive/folders/1G6edmgFdVT8E4Lvo21DPJE5iY2jtTEq8?usp=sharing>
-> * 팀발표영상: <https://youtu.be/TkxO3p8y2q4>
-* Sample Code:<br />
+교육기관 : 비트캠프 (Java 고급과정 96기)
+* 프로젝트 진행일: 2017.10 ~ 2017.12
+* 팀명: 원피스
+* 주사용 기술: Java, Spring/Spring Boot, Jsp, JQuery, JavaScript
+* 담당 업무: 현재위치 기준 음식점 추천 (이미지 크롤링 및 구글맵 API)
+* 프로젝트 기획 및 소개영상: <https://drive.google.com/drive/folders/1G6edmgFdVT8E4Lvo21DPJE5iY2jtTEq8?usp=sharing>
+* 팀발표영상: <https://youtu.be/TkxO3p8y2q4>
+> * Sample Code:<br />
 > > - 이미지 크롤링: <https://github.com/Yosigoon/bit/blob/main/bansang/util/Crawling.java>
