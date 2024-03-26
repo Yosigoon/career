@@ -3,31 +3,32 @@
 이형원 (Hyeongwon Lee)
 -
 ## Skill <br />
- - BE: Java, Spring, Spring Boot <br />
- - FE: js, vue.js, php, nexacro
+ - BE: Java, Spring, Spring Boot, PHP <br />
+ - FE: js, vue.js, nexacro
+ - DB: MySQL, Oracle
  - Cloud: AWS
 
 - Mail: <yosigoon@gmail.com>
 - github: https://github.com/yosigoon
 <br />
  
-# 경력
-### 베스핀글로벌
+## 경력
+#### 베스핀글로벌
 * 2023.01 ~ 현재
 
-### 파스토
+#### 파스토
 * 2021.05 ~ 2022.12
 
-### 여보야(구 인포렉스)
+#### 여보야(구 인포렉스)
 * 2019.12 ~ 2021.04
 
-### 네티브
+#### 네티브
 * 2018.04 ~ 2019.12
 
-### 펑타이코리아
+#### 펑타이코리아
 * 2016.09 ~ 2017.06
 
-### ETC & 교육
+#### ETC & 교육
 
  <br />
  
