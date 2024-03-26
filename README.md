@@ -39,7 +39,7 @@
 * 사업 진행일: 2023.01 ~ 현재
 * 주사용 기술: AWS, Java, Spring, MySQL
 * 담당 업무:<br /> 
-> > - Devops, API/Batch Back-End 운영/개발 <br />
+ - Devops, API/Batch Back-End 운영/개발 <br />
 
 
 
@@ -56,8 +56,8 @@
  - 배송사(CJ대한통운, 롯데택배, 한진택배, 이크레모스 등) 연동 및 API 제공<br />
  - 배송추적(스마트택배) 연동 및 API 제공
  - 인터페이스팀 API 아키텍처 설계
-> * Sample Code:<br />
-> > - Api Sample: <https://github.com/Yosigoon/apiSample> <br />
+* Sample Code:<br />
+ - API: <https://github.com/Yosigoon/apiSample> <br />
 
 ### [달라(달빛라이브)]
 
@@ -67,9 +67,9 @@
 * 사업 진행일: 2019.12 ~ 2021.04
 * 주사용 기술: Java, Spring Boot, MySQL
 * 담당 업무: Rest API 개발(방송, 클립 등), 외부 API(모든 결제 및 인증) 연동 개발
-> * Sample Code:<br />
-> > - Rest Api: <https://github.com/Yosigoon/sample-api> <br />
-> > - 카카오 결제: <https://github.com/Yosigoon/sample-pay-kakao>
+* Sample Code:<br />
+ - API: <https://github.com/Yosigoon/sample-api> <br />
+ - 카카오 결제: <https://github.com/Yosigoon/sample-pay-kakao>
 
 
 <br />
@@ -102,8 +102,8 @@
 * 프로젝트 진행일: 2018.09 ~ 2019.03
 * 주사용 기술: Java, Spring Framework, Vue js, Javascript Jsp, JQuery
 * 담당 업무: 구축 (메인템플릿 Vue로 교체, 원더랜드<이벤트추가>)
-> * Sample Code:<br />
-> > - Main: <https://github.com/Yosigoon/cjone>
+* Sample Code:<br />
+ - Main: <https://github.com/Yosigoon/cjone>
 
 <br />
 
@@ -159,8 +159,8 @@
 * 개발 기간: 2개월
 * 담당 업무: 아카이브 신규 메뉴 추가 및 연도별 수상작, 토크샤워 연동
 * URL: <https://www.naward.or.kr>
-> * Sample Code:<br />
-> > - 아카이브(수상작, 토크샤워): <https://github.com/Yosigoon/naward>
+* Sample Code:<br />
+ - 아카이브(수상작, 토크샤워): <https://github.com/Yosigoon/naward>
 
 <br />
 
@@ -173,8 +173,8 @@
 * 개발 기간: 2개월
 * 담당 업무: 예약 및 결제 프로세스 변경 및 관리자 기능 개선(회원, 예약, 메일발송)
 * URL: <https://www.playcegroup.com>
-> * Sample Code:<br />
-> > - 예약검증 및 관리자 메일발송, 강제취소 운영: <https://github.com/Yosigoon/jeju>
+* Sample Code:<br />
+ - 예약검증 및 관리자 메일발송, 강제취소 운영: <https://github.com/Yosigoon/jeju>
 
 <br />
 
@@ -192,5 +192,5 @@
 * 담당 업무: 현재위치 기준 음식점 추천 (이미지 크롤링 및 구글맵 API)
 * 프로젝트 기획 및 소개영상: <https://drive.google.com/drive/folders/1G6edmgFdVT8E4Lvo21DPJE5iY2jtTEq8?usp=sharing>
 * 팀발표영상: <https://youtu.be/TkxO3p8y2q4>
-> * Sample Code:<br />
-> > - 이미지 크롤링: <https://github.com/Yosigoon/bit/blob/main/bansang/util/Crawling.java>
+* Sample Code:<br />
+ - 이미지 크롤링: <https://github.com/Yosigoon/bit/blob/main/bansang/util/Crawling.java>
