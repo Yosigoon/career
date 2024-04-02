@@ -57,7 +57,7 @@
  - 배송사(CJ대한통운, 롯데택배, 한진택배, 이크레모스 등) 연동 및 API 제공<br />
  - 배송추적(스마트택배) 연동 및 API 제공
  - 인터페이스팀 API 아키텍처 설계
-* Sample Code: <https://github.com/Yosigoon/apiSample> <br />
+* Sample Code: <https://github.com/Yosigoon/apisample> <br />
 
 ### [달라(달빛라이브)]
 
