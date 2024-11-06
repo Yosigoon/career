@@ -34,7 +34,7 @@
  <br />
  
 ## Project & Service
-### [롯데이노베이트 호텔 PMS SaaS] 
+### [롯데이노베이트 호텔 PMS SaaS Control Plane 구성] 
 ###### (AWS 파트너사로 분석 설계 공동진행)
 <img src="https://github.com/Yosigoon/portfolio/blob/main/img/nova.png" width="350" height="200">
  
