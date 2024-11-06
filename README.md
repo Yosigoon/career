@@ -3,10 +3,11 @@
 이형원 (Hyeongwon Lee)
 -
 ## Skill <br />
- - BE: Java, Spring, Spring Boot, PHP <br />
- - FE: js, vue.js, nexacro
- - DB: MySQL, Oracle
- - Cloud: AWS
+ - Devops
+  -- BE: Java(Spring, Spring Boot), PHP, Python <br />
+  -- FE: js, vue.js, nexacro, react
+  -- DB: MySQL, Oracle
+  -- Cloud: AWS
 
 - Mail: <yosigoon@gmail.com>
 - github: https://github.com/yosigoon
