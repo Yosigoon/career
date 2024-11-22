@@ -35,20 +35,20 @@
  
 ## Project & Service
 ### [SKT Cloud Radar 고도화] 
-<img src="https://github.com/Yosigoon/portfolio/blob/main/img/skt.png" width="350" height="200">
+<img src="https://github.com/Yosigoon/portfolio/blob/main/img/skt.png" width="400" height="250">
 
 회사: 베스핀글로벌
 * 사업 진행일: 2024.11 ~ 2024.12
 * 주사용 기술: AWS CDK, Java(Spring Boot), Vue.js
 * 담당 업무:<br /> 
- - SaaS 아키텍쳐 분석/설계 및 구축 <br />
-
+ - Spot Advisor, Budget API <br />
+ - Spot Advisor Front
  <br />
 
 
 ### [롯데이노베이트 호텔 PMS SaaS Control Plane 구성] 
 ###### (AWS 파트너사로 분석 설계 공동진행)
-<img src="https://github.com/Yosigoon/portfolio/blob/main/img/nova.png" width="350" height="200">
+<img src="https://github.com/Yosigoon/portfolio/blob/main/img/nova.png" width="400" height="250">
  
 회사: 베스핀글로벌
 * 사업 진행일: 2024.06 ~ 2024.10
@@ -71,7 +71,7 @@
 
 ### [물류시스템(FMS)기능 개발 및 외부 연동 인터페이스(API) 제공]
 
-<img src="https://github.com/Yosigoon/portfolio/blob/main/img/fss/fassto.png" width="350" height="200">
+<img src="https://github.com/Yosigoon/portfolio/blob/main/img/fss/fassto.png" width="300" height="200">
 
 회사: 파스토
 * 사업 진행일: 2021.05 ~ 2022.12
