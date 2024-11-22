@@ -35,7 +35,7 @@
  
 ## Project & Service
 ### [SKT Cloud Radar 고도화] 
-<img src="https://github.com/Yosigoon/portfolio/blob/main/img/skt.png" width="400" height="250">
+<img src="https://github.com/Yosigoon/portfolio/blob/main/img/skt.png" width="360" height="200">
 
 회사: 베스핀글로벌
 * 사업 진행일: 2024.11 ~ 2024.12
@@ -48,7 +48,7 @@
 
 ### [롯데이노베이트 호텔 PMS SaaS Control Plane 구성] 
 ###### (AWS 파트너사로 분석 설계 공동진행)
-<img src="https://github.com/Yosigoon/portfolio/blob/main/img/nova.png" width="400" height="250">
+<img src="https://github.com/Yosigoon/portfolio/blob/main/img/nova.png" width="360" height="200">
  
 회사: 베스핀글로벌
 * 사업 진행일: 2024.06 ~ 2024.10
