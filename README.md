@@ -35,7 +35,8 @@
  
 ## Project & Service
 ### [SKT Cloud Radar 고도화] 
- 
+<img src="https://github.com/Yosigoon/portfolio/blob/main/img/skt.png" width="350" height="200">
+
 회사: 베스핀글로벌
 * 사업 진행일: 2024.11 ~ 2024.12
 * 주사용 기술: AWS CDK, Java(Spring Boot), Vue.js
