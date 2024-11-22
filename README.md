@@ -34,6 +34,17 @@
  <br />
  
 ## Project & Service
+### [SKT Cloud Radar 고도화] 
+ 
+회사: 베스핀글로벌
+* 사업 진행일: 2024.11 ~ 2024.12
+* 주사용 기술: AWS CDK, Java(Spring Boot), Vue.js
+* 담당 업무:<br /> 
+ - SaaS 아키텍쳐 분석/설계 및 구축 <br />
+
+ <br />
+
+
 ### [롯데이노베이트 호텔 PMS SaaS Control Plane 구성] 
 ###### (AWS 파트너사로 분석 설계 공동진행)
 <img src="https://github.com/Yosigoon/portfolio/blob/main/img/nova.png" width="350" height="200">
@@ -111,7 +122,7 @@
 
 회사 : 네티브
 * 프로젝트 진행일: 2018.09 ~ 2019.03
-* 주사용 기술: Java, Spring Framework, Vue js, Javascript Jsp, JQuery
+* 주사용 기술: Java, Spring Framework, Vue.js, Javascript, JSP, JQuery
 * 담당 업무: 구축 (메인템플릿 Vue로 교체, 원더랜드<이벤트추가>)
 * Sample Code: Main <https://github.com/Yosigoon/cjone>
 
