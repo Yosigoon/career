@@ -1,14 +1,7 @@
 ![profile_img](./img/me.PNG)
 
 이형원 (Hyeongwon Lee)
--
-## Skill <br />
- - Devops <br />
-  - BE: Java(Spring, Spring Boot), PHP, Python <br />
-  - FE: js, vue.js, nexacro, react
-  - DB: MySQL, Oracle
-  - Cloud: AWS
-
+- DevOps Engineer
 - Mail: <yosigoon@gmail.com>
 - github: https://github.com/yosigoon
 <br />
@@ -83,7 +76,7 @@
   * 배송사(CJ대한통운, 롯데택배, 한진택배, 이크레모스 등) 연동 및 API 제공<br />
   * 배송추적(스마트택배) 연동 및 API 제공
   * 인터페이스팀 API 아키텍처 설계
-  * Sample Code: <https://github.com/Yosigoon/apiSample> <br />
+* Sample Code: <https://github.com/Yosigoon/apiSample> <br />
 
 ### [달라(달빛라이브)]
 
@@ -92,7 +85,8 @@
 회사: 여보야(구: 인포렉스)
 * 사업 진행일: 2019.12 ~ 2021.04
 * 주사용 기술: Java, Spring Boot, MySQL
-* 담당 업무: Rest API 개발(방송, 클립 등), 외부 API(모든 결제 및 인증) 연동 개발
+* 담당 업무:<br />
+  * Rest API 개발(방송, 클립 등), 외부 API(모든 결제 및 인증) 연동 개발
 * Sample Code: API <https://github.com/Yosigoon/sample-api>, 카카오 결제 <https://github.com/Yosigoon/sample-pay-kakao>
 
 
@@ -105,7 +99,8 @@
 회사: 네티브
 * 프로젝트 진행일: 2019.10 ~ 2019.12
 * 주사용 기술: Java, Spring Framework, Jsp, JQuery, JavaScript, RD Viewer, Oracle
-* 담당 업무: 대표 홈페이지 재구축 (고객센터<소비자포털, 고객의소리>, 혜택<이벤트>, 증명서)
+* 담당 업무:<br />
+  * 대표 홈페이지 재구축 (고객센터<소비자포털, 고객의소리>, 혜택<이벤트>, 증명서)
 <br />
 
 ### [AIA생명 다이렉트 플랫폼]
@@ -115,7 +110,8 @@
 회사: 네티브
 * 프로젝트 진행일: 2019.04 ~ 2019.09
 * 주사용 기술: Java, Oracle, Spring Framework, Nexacro
-* 담당 업무: 구축 (인증, 결제, MyPage)
+* 담당 업무:<br />
+  * 인증, 결제, MyPage 구축
 <br />
 
 ### [CJ ONE 2차 고도화]
@@ -125,7 +121,8 @@
 회사 : 네티브
 * 프로젝트 진행일: 2018.09 ~ 2019.03
 * 주사용 기술: Java, Spring Framework, Vue.js, Javascript, JSP, JQuery
-* 담당 업무: 구축 (메인템플릿 Vue로 교체, 원더랜드<이벤트추가>)
+* 담당 업무:<br />
+  * 메인템플릿 변경(Vue.js), 원더랜드(이벤트추가)
 * Sample Code: Main <https://github.com/Yosigoon/cjone>
 
 <br />
@@ -137,7 +134,8 @@
 회사 : 네티브
 * 프로젝트 진행일: 2018.07 ~ 2018.09
 * 주사용 기술: Java, Oracle, Spring Framework, Jsp, JQuery, JavaScript
-* 담당 업무: 구축 (News, 관리자)
+* 담당 업무:<br />
+  * News, 관리자 구축
 <br />
 
 ### [AIA생명 온라인창구 재구축]
@@ -147,7 +145,8 @@
 회사 : 네티브
 * 프로젝트 진행일: 2018.04 ~ 2018.07
 * 주사용 기술: Java, Oracle, Spring Framework
-* 담당 업무: 운영 (인증, 증명서)
+* 담당 업무:<br />
+  * 인증, 증명서 운영
 
 # ETC
 
@@ -158,7 +157,8 @@
 * 소개: flexgear
 * 개발 언어: PHP, JQuery, JavaScript
 * 개발 기간: 3개월
-* 담당 업무: 네이버 메타커머스 서버구성 및 커스텀개발, 모듈연동
+* 담당 업무:<br />
+  * 네이버 메타커머스 서버구성 및 커스텀개발, 모듈연동
 * URL: <https://www.flexgear.co.kr/>, <https://en.flexgear.co.kr>
 
 ### [Lakecomo]
@@ -168,7 +168,8 @@
 * 소개: 레이크꼬모
 * 개발 언어: Java, Spring Framework, Jsp, JQuery, JavaScript
 * 개발 기간: 1개월
-* 담당 업무: 액티비티 & 행사안내 신규메뉴 추가 및 관리자 개선
+* 담당 업무:<br />
+  * 액티비티 & 행사안내 신규메뉴 추가 및 관리자 개선
 * URL: <https://lakecomo.co.kr>
 
 <br />
@@ -180,7 +181,8 @@
 * 소개 : 앤어워드
 * 개발 언어: Vue.js, PHP, JQuery, JavaScript
 * 개발 기간: 2개월
-* 담당 업무: 아카이브 신규 메뉴 추가 및 연도별 수상작, 토크샤워 연동
+* 담당 업무:<br />
+  * 아카이브 신규 메뉴 추가 및 연도별 수상작, 토크샤워 연동
 * URL: <https://www.naward.or.kr>
 * Sample Code: 아카이브(수상작, 토크샤워) <https://github.com/Yosigoon/naward>
 
@@ -193,7 +195,9 @@
 * 소개: 플레이스캠프 제주
 * 개발 언어: PHP, Jsp, JQuery, JavaScript
 * 개발 기간: 2개월
-* 담당 업무: 예약 및 결제 프로세스 변경 및 관리자 기능 개선(회원, 예약, 메일발송)
+* 담당 업무:<br />
+  * 예약 및 결제 프로세스 변경
+  * 관리자 기능 개선(회원, 예약, 메일발송)
 * URL: <https://www.playcegroup.com>
 * Sample Code: 예약검증 및 관리자 메일발송, 강제취소 운영 <https://github.com/Yosigoon/jeju>
 
@@ -210,7 +214,8 @@
 * 프로젝트 진행일: 2017.10 ~ 2017.12
 * 팀명: 원피스
 * 주사용 기술: Java, Spring/Spring Boot, Jsp, JQuery, JavaScript
-* 담당 업무: 현재위치 기준 음식점 추천 (이미지 크롤링 및 구글맵 API)
+* 담당 업무:<br />
+  * 현재위치 기준 음식점 추천 (이미지 크롤링 및 구글맵 API)
 * 프로젝트 기획 및 소개영상: <https://drive.google.com/drive/folders/1G6edmgFdVT8E4Lvo21DPJE5iY2jtTEq8?usp=sharing>
 * 팀발표영상: <https://youtu.be/TkxO3p8y2q4>
 * Sample Code: 이미지 크롤링 <https://github.com/Yosigoon/bit/blob/main/bansang/util/Crawling.java>
