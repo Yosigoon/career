@@ -1,5 +1,3 @@
-![profile_img](./img/me.PNG)
-
 이형원 (Hyeongwon Lee)
 - DevOps Engineer
 - Mail: <yosigoon@gmail.com>
