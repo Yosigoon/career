@@ -40,10 +40,10 @@
 회사: 베스핀글로벌
 * 사업 진행일: 2024.11 ~ 2024.12
 * 주사용 기술: AWS CDK, Java(Spring Boot), Vue.js, React.js
-* 담당 업무:<br /> 
- - Spot Advisor, Budget API <br />
- - Spot Advisor Front
- - Dashboard 구성
+* 담당 업무:<br />
+  * Spot Advisor, Budget API
+  * Spot Advisor Front
+  * Dashboard 구성
  <br />
 
 
@@ -54,8 +54,8 @@
 회사: 베스핀글로벌
 * 사업 진행일: 2024.06 ~ 2024.10
 * 주사용 기술: AWS CDK, Lambda, TypeScript, React
-* 담당 업무:<br /> 
- - SaaS 아키텍쳐 분석/설계 및 구축 <br />
+* 담당 업무:<br />
+  * SaaS 아키텍쳐 분석/설계 및 구축 <br />
 
  <br />
 
@@ -66,7 +66,7 @@
 * 사업 진행일: 2023.01 ~ 2024.03
 * 주사용 기술: AWS, Java, Spring, MySQL
 * 담당 업무:<br /> 
- - Devops, API/Batch Back-End 운영/개발 <br />
+  * Devops, API/Batch Back-End 운영/개발 <br />
 
 <br />
 
@@ -78,12 +78,12 @@
 * 사업 진행일: 2021.05 ~ 2022.12
 * 주사용 기술: Java, Spring Boot, MySQL
 * 담당 업무:<br />
-* * 물류 시스템(FMS) API 제공 <br />
- * 외부 쇼핑몰(스마트스토어, 아입웹, 샵링커, 고도몰, 사방넷, 이크레모스, 카페24) 연동 및 API 제공<br />
- * 배송사(CJ대한통운, 롯데택배, 한진택배, 이크레모스 등) 연동 및 API 제공<br />
- * 배송추적(스마트택배) 연동 및 API 제공
- * 인터페이스팀 API 아키텍처 설계
-* Sample Code: <https://github.com/Yosigoon/apiSample> <br />
+  * 물류 시스템(FMS) API 제공 <br />
+  * 외부 쇼핑몰(스마트스토어, 아입웹, 샵링커, 고도몰, 사방넷, 이크레모스, 카페24) 연동 및 API 제공<br />
+  * 배송사(CJ대한통운, 롯데택배, 한진택배, 이크레모스 등) 연동 및 API 제공<br />
+  * 배송추적(스마트택배) 연동 및 API 제공
+  * 인터페이스팀 API 아키텍처 설계
+  * Sample Code: <https://github.com/Yosigoon/apiSample> <br />
 
 ### [달라(달빛라이브)]
 
