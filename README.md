@@ -39,10 +39,11 @@
 
 회사: 베스핀글로벌
 * 사업 진행일: 2024.11 ~ 2024.12
-* 주사용 기술: AWS CDK, Java(Spring Boot), Vue.js
+* 주사용 기술: AWS CDK, Java(Spring Boot), Vue.js, React.js
 * 담당 업무:<br /> 
  - Spot Advisor, Budget API <br />
  - Spot Advisor Front
+ - Dashboard 구성
  <br />
 
 
