@@ -35,9 +35,7 @@
  
 ## Project & Service
 ### [SKT Cloud Radar 고도화] 
-<img src="https://github.com/Yosigoon/portfolio/blob/main/img/skt.png" width="360" height="200">
-<img src="https://github.com/Yosigoon/portfolio/blob/main/img/total.png" width="360" height="200">
-<img src="https://github.com/Yosigoon/portfolio/blob/main/img/iaas.png" width="360" height="200">
+<img src="https://github.com/Yosigoon/portfolio/blob/main/img/skt.png" width="360" height="200"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/total.png" width="360" height="200"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/iaas.png" width="360" height="200">
 
 회사: 베스핀글로벌
 * 사업 진행일: 2024.11 ~ 2024.12
