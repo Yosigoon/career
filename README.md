@@ -149,6 +149,16 @@
   * 인증, 증명서 운영
 
 # ETC
+### [3VI WAF]
+
+<img src="https://github.com/Yosigoon/portfolio/blob/main/img/3vi1.png" width="350" height="250"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/3vi2.png" width="350" height="250"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/3vi4.png" width="350" height="250"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/3vi3.png" width="350" height="250">
+
+* 소개: Nginx Proxy Manger + ModSecurity + ELK + Grafana
+* 개발 언어: Node.js, JS, Docker
+* 개발 기간: 2개월
+* 담당 업무:<br />
+  * OWASP CRS 4.3 기준 Modsecurity 기본 및 커스텀 정책 개발 연동
+  * ELK + Grafana 모니터링 구성
 
 ### [FLEXGEAR]
 
