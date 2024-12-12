@@ -157,7 +157,7 @@
 * 개발 언어: Node.js, JS, Docker
 * 개발 기간: 2개월
 * 담당 업무:<br />
-  * OWASP CRS 4.3 기준 Modsecurity 기본 및 커스텀 정책 개발 연동
+  * OWASP CRS 4.3 기준 Modsecurity 기본 및 커스텀 정책 개발 Nginx 연동
   * ELK + Grafana 모니터링 구성
 
 ### [FLEXGEAR]
