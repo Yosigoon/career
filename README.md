@@ -27,7 +27,7 @@
  <br />
  
 ## Project & Service
-### [SKT Cloud Radar 고도화] 
+### [SKT CMP Cloud Radar 고도화] 
 <img src="https://github.com/Yosigoon/portfolio/blob/main/img/skt.png" width="320" height="200"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/total.png" width="320" height="200"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/iaas.png" width="320" height="200">
 
 회사: 베스핀글로벌
