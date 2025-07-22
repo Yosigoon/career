@@ -28,6 +28,8 @@
  
 ## Project & Service
 ### [국민 소통 플랫폼 모두의 광장] 
+<img src="https://github.com/Yosigoon/portfolio/blob/main/img/modu/modu1.png" width="350" height="200"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/modu/modu2.png" width="350" height="200"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/modu/modu3.png" width="350" height="200"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/modu/modu4.png" width="350" height="200">
+
 
 회사: 베스핀글로벌
 * 사업 진행일: 2025.6 ~ 2025.8
