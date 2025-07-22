@@ -27,6 +27,17 @@
  <br />
  
 ## Project & Service
+### [국민 소통 플랫폼 모두의 광장] 
+
+회사: 베스핀글로벌
+* 사업 진행일: 2025.6 ~ 2025.8
+* 주사용 기술: Java(Spring Boot), Javascript
+* 담당 업무:<br />
+  * 본인인증 구성
+  * 전반적인 애플리케이션 개발 및 NKS 환경 운영배포
+ <br />
+
+
 ### [SKT CMP Cloud Radar 고도화] 
 <img src="https://github.com/Yosigoon/portfolio/blob/main/img/skt.png" width="320" height="200"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/total.png" width="320" height="200"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/iaas.png" width="320" height="200">
 
