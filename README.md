@@ -33,7 +33,7 @@
 
 회사: 베스핀글로벌
 * 사업 진행일: 2025.6 ~ 2025.8
-* 주사용 기술: Java(Spring Boot), Javascript
+* 주사용 기술: Java(Spring Boot), Javascript, NKS
 * 담당 업무:<br />
   * 본인인증 구성
   * 전반적인 애플리케이션 개발 및 NKS 환경 운영배포
