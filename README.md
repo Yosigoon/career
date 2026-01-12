@@ -1,7 +1,7 @@
 ![profile_img](./img/me.PNG)
 
 ## 이형원 (Hyeongwon Lee)
-- DevOps Engineer
+- DevOps & Backend Engineer
 - Mail: <yosigoon@gmail.com>
 - github: https://github.com/yosigoon
 <br />
@@ -27,6 +27,20 @@
  <br />
  
 ## Project & Service
+### [삼성물산 홈닉(Homeniq) 인프라 고도화] 
+<img src="https://github.com/Yosigoon/portfolio/blob/main/img/hoemniq/dashboard.png" width="350" height="400"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/hoemniq/ap_list.png" width="350" height="400"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/hoemniq/active_ap.png" width="350" height="200"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/hoemniq/bnm.png" width="350" height="200">
+
+
+회사: 베스핀글로벌
+* 사업 진행일: 2025.9 ~ 2026.1
+* 주사용 기술: Terraform, Python(AWS Lambda), Svelte
+* 담당 업무:<br />
+  * SaaS Control Plane 시스템 설계 및 구축
+  * SaaS Control Plane 관리 포털 개발
+  * 온보딩 / 오프보딩 파이프라인 구축
+ <br />
+
+ 
 ### [국민 소통 플랫폼 모두의 광장] 
 <img src="https://github.com/Yosigoon/portfolio/blob/main/img/modu/page_1.png" width="350" height="400"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/modu/page_2.png" width="350" height="400"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/modu/modu1.png" width="350" height="200"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/modu/modu2.png" width="350" height="200"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/modu/modu3.png" width="350" height="200"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/modu/modu4.png" width="350" height="200">
 
