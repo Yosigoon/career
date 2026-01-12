@@ -28,7 +28,7 @@
  
 ## Project & Service
 ### [삼성물산 홈닉(Homeniq) 인프라 고도화] 
-<img src="https://github.com/Yosigoon/portfolio/blob/main/img/homeniq/dashboard.png" width="350" height="400"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/homeniq/ap_list.png" width="350" height="400"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/homeniq/bnm_2" width="350" height="400"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/homeniq/bnm_2.png" width="350" height="400">
+<img src="https://github.com/Yosigoon/portfolio/blob/main/img/homeniq/dashboard.png" width="350" height="400"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/homeniq/ap_list.png" width="350" height="400"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/homeniq/bnm_1.png" width="350" height="400"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/homeniq/bnm_2.png" width="350" height="400">
 
 
 회사: 베스핀글로벌
