@@ -28,11 +28,13 @@
  
 ## Project & Service
 
-### [삼성물산 홈닉(Homeniq) 인프라 고도화]
+### [삼성물산 홈닉(Homeniq)]
 <img src="https://github.com/Yosigoon/portfolio/blob/main/img/homeniq/dashboard.png" width="350" height="400"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/homeniq/bnm_1.png" width="350" height="400"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/homeniq/list_ap.png" width="350" height="400"><img src="https://github.com/Yosigoon/portfolio/blob/main/img/homeniq/bnm_2.png" width="350" height="400">
 
 회사: 베스핀글로벌
-* 사업 진행일: 2025.09 ~ 2026.02
+* 사업 진행일:
+ * Phase 1: 2025.09 ~ 2026.02 (인프라 고도화 & Data Report System 구축)
+ * Phase 2: 2026.03 ~ 2026.08 (마이그레이션 & 애플리케이션 고도화)
 * 주사용 기술: AWS, Terraform, Python(AWS Lambda), Svelte
 * 주요 성과:<br />
   * SaaS Control Plane 구축을 통한 멀티 테넌트 아키텍처 설계
@@ -56,6 +58,7 @@
   * 본인인증 시스템 구성 및 전반적인 애플리케이션 개발
   * Vue.js 기반 프론트엔드 및 관리자 페이지 개발
   * NKS(Naver Kubernetes Service)를 활용한 컨테이너 오케스트레이션 환경 배포
+  * DRS(Data Report System) 구축 (AWS Glue, S3, QuickSight)
 
 <br />
 
